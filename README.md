@@ -17,7 +17,7 @@ The dataset contains information about sales transactions on Amazon, including o
 5. **Geographical Analysis**: Explore sales distribution across states and cities
 6. **Business Insights**: Provide actionable recommendations to optimize sales strategies
 
-## Dataset
+## Dataset (https://github.com/sudip17x/New_Repository/blob/main/Amazon%20Sale%20Report.csv)
 
 The dataset includes information about:
 - Order details (ID, date, status)
