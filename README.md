@@ -29,7 +29,7 @@ The dataset includes information about:
 - Shipping details (city, state, postal code, country)
 - Transaction amounts and currencies
 - Customer segments (B2B)
-## Attachment : 
+## Attachment : Amazon Sale Report.csv
 
 ## Analysis Approach 
 (https://github.com/sudip17x/New_Repository/blob/main/Cleaned_Amazon_Sales_Report.csv)
@@ -52,7 +52,7 @@ The dataset includes information about:
    - Product category distribution
    - Geographical heatmaps of sales distribution
 
-## Attachment : 
+## Attachment : Cleaned_Amazon_Sales_Report.csv
 
 ## KPI (KEY PERFORMANCE INDICATOR) 
 (https://github.com/sudip17x/New_Repository/blob/main/Amazon_project_01.ipynb)
@@ -74,7 +74,7 @@ The dataset includes information about:
    - Navi Mumbai
    - Chennai
 
-## Attachment : 
+## Attachment : Amazon_project_01.ipynb
 
 ## Technologies Used
 
@@ -87,7 +87,7 @@ The dataset includes information about:
 
 1. Clone the repository
 2. Install required dependencies (`pandas`, `matplotlib`, `seaborn`)
-3. Open and run the Jupyter Notebook (`innobyte_project_01.ipynb`)
+3. Open and run the Jupyter Notebook (`Amazon_project_01.ipynb`)
 4. Explore the analysis and visualizations
 
 ## Future Enhancements
