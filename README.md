@@ -1,8 +1,11 @@
 Amazon Sales Report Analysis
+
 📊 Project Overview
+
 This project delivers a comprehensive data analysis of Amazon sales transactions to uncover actionable business insights and drive data-driven decision-making. Leveraging data wrangling, visualization, and advanced analytics, the analysis explores sales trends, product performance, fulfillment efficiency, customer segmentation, and geographical distributions.
 
 🚀 Objectives
+
 Sales Overview: Identify key sales metrics, trends, and patterns over time.
 
 Product Analysis: Analyze product categories, sizes, and quantities sold to reveal bestsellers and underperformers.
@@ -16,6 +19,7 @@ Geographical Analysis: Visualize sales distribution across states and cities to 
 Business Insights: Recommend strategies for sales optimization, inventory management, and enhanced customer experience.
 
 🗂️ Dataset
+
 Source: Sales transaction dataset containing order details (order ID, date, status, fulfillment, product category, quantity, amount, shipping, etc.)
 
 [Dataset not included here. Please refer to original source for access.]
