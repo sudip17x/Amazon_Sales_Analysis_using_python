@@ -27,7 +27,7 @@ The dataset includes information about:
 - Transaction amounts and currencies
 - Customer segments (B2B)
 
-## Analysis Approach
+## Analysis Approach (https://github.com/sudip17x/New_Repository/blob/main/Cleaned_Amazon_Sales_Report.csv)
 
 1. **Data Cleaning**:
    - Handling missing values
