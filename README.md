@@ -51,7 +51,7 @@ The dataset includes information about:
    - Geographical heatmaps of sales distribution
 
 ## KPI (KEY PERFORMANCE INDICATOR) 
-(https://github.com/sudip17x/New_Repository/blob/main/Amazon%20Sale%20Report.csv)
+(https://github.com/sudip17x/New_Repository/blob/main/Amazon_project_01.ipynb)
 
 1. **Sales Performance**:
    - Total Orders: 112,887
