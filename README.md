@@ -4,7 +4,8 @@
 
 This project analyzes an Amazon sales dataset to extract actionable insights that can help optimize business operations, enhance customer experience, and drive revenue growth. The analysis focuses on sales trends, product performance, customer segmentation, and geographical distribution of sales.
 
-## Problem Statement (https://github.com/sudip17x/New_Repository/blob/main/Data%20Analyst_78G0OL.pdf)
+## Problem Statement 
+(https://github.com/sudip17x/New_Repository/blob/main/Data%20Analyst_78G0OL.pdf)
 
 The dataset contains information about sales transactions on Amazon, including order details, fulfillment methods, product categories, shipping information, and more. The objective is to conduct a comprehensive analysis to support business decision-making.
 
@@ -17,7 +18,8 @@ The dataset contains information about sales transactions on Amazon, including o
 5. **Geographical Analysis**: Explore sales distribution across states and cities
 6. **Business Insights**: Provide actionable recommendations to optimize sales strategies
 
-## Dataset (https://github.com/sudip17x/New_Repository/blob/main/Amazon%20Sale%20Report.csv)
+## Dataset 
+(https://github.com/sudip17x/New_Repository/blob/main/Amazon%20Sale%20Report.csv)
 
 The dataset includes information about:
 - Order details (ID, date, status)
@@ -27,7 +29,8 @@ The dataset includes information about:
 - Transaction amounts and currencies
 - Customer segments (B2B)
 
-## Analysis Approach (https://github.com/sudip17x/New_Repository/blob/main/Cleaned_Amazon_Sales_Report.csv)
+## Analysis Approach 
+(https://github.com/sudip17x/New_Repository/blob/main/Cleaned_Amazon_Sales_Report.csv)
 
 1. **Data Cleaning**:
    - Handling missing values
@@ -47,7 +50,8 @@ The dataset includes information about:
    - Product category distribution
    - Geographical heatmaps of sales distribution
 
-## KPI (KEY PERFORMANCE INDICATOR) (https://github.com/sudip17x/New_Repository/blob/main/Amazon%20Sale%20Report.csv)
+## KPI (KEY PERFORMANCE INDICATOR) 
+(https://github.com/sudip17x/New_Repository/blob/main/Amazon%20Sale%20Report.csv)
 
 1. **Sales Performance**:
    - Total Orders: 112,887
