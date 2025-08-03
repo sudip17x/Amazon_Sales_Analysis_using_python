@@ -47,7 +47,7 @@ The dataset includes information about:
    - Product category distribution
    - Geographical heatmaps of sales distribution
 
-## Key Findings
+## KPI (KEY PERFORMANCE INDICATOR)
 
 1. **Sales Performance**:
    - Total Orders: 112,887
@@ -87,10 +87,10 @@ The dataset includes information about:
 - Develop predictive models for sales forecasting
 - Create interactive dashboards for business users
 
-## Contributors
+## Let's Connect
 
-Sudip Ghosh
+If you're interested in collaborating or have questions, feel free to reach out!
 
-## License
-
-[MIT License] or specify your preferred license
+## SUDIP GHOSH
+Email: sudip17x@gmail.com
+LinkedIn: [](https://www.linkedin.com/in/sudip-ghosh-758463304/)
