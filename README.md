@@ -4,7 +4,7 @@
 
 This project analyzes an Amazon sales dataset to extract actionable insights that can help optimize business operations, enhance customer experience, and drive revenue growth. The analysis focuses on sales trends, product performance, customer segmentation, and geographical distribution of sales.
 
-## Problem Statement
+## Problem Statement (https://github.com/sudip17x/New_Repository/blob/main/Data%20Analyst_78G0OL.pdf)
 
 The dataset contains information about sales transactions on Amazon, including order details, fulfillment methods, product categories, shipping information, and more. The objective is to conduct a comprehensive analysis to support business decision-making.
 
