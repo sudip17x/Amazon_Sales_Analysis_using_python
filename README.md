@@ -8,6 +8,7 @@ This project analyzes an Amazon sales dataset to extract actionable insights tha
 (https://github.com/sudip17x/New_Repository/blob/main/Data%20Analyst_78G0OL.pdf)
 
 The dataset contains information about sales transactions on Amazon, including order details, fulfillment methods, product categories, shipping information, and more. The objective is to conduct a comprehensive analysis to support business decision-making.
+## Attachment : Data Analyst_78G0OL.pdf
 
 ## Key Objectives
 
@@ -28,6 +29,7 @@ The dataset includes information about:
 - Shipping details (city, state, postal code, country)
 - Transaction amounts and currencies
 - Customer segments (B2B)
+## Attachment : 
 
 ## Analysis Approach 
 (https://github.com/sudip17x/New_Repository/blob/main/Cleaned_Amazon_Sales_Report.csv)
@@ -50,6 +52,8 @@ The dataset includes information about:
    - Product category distribution
    - Geographical heatmaps of sales distribution
 
+## Attachment : 
+
 ## KPI (KEY PERFORMANCE INDICATOR) 
 (https://github.com/sudip17x/New_Repository/blob/main/Amazon_project_01.ipynb)
 
@@ -69,6 +73,8 @@ The dataset includes information about:
    - Bengaluru
    - Navi Mumbai
    - Chennai
+
+## Attachment : 
 
 ## Technologies Used
 
