@@ -1,5 +1,7 @@
 # Amazon Sales Report Analysis
 
+![image alt](https://github.com/sudip17x/Amazon_Sales_Analysis_using_python/blob/1879e520fffd8afb4b69e23a33ea3da91303c379/Amazon%20sales%20dashboard%20img.png)
+
 ## Project Overview
 
 This project analyzes an Amazon sales dataset to extract actionable insights that can help optimize business operations, enhance customer experience, and drive revenue growth. The analysis focuses on sales trends, product performance, customer segmentation, and geographical distribution of sales.
