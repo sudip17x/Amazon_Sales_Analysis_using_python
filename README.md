@@ -107,5 +107,5 @@ If you're interested in collaborating or have questions, feel free to reach out!
 
 ## Contributor
  SUDIP GHOSH
- Email: sudip17x@gmail.com
- LinkedIn: (https://www.linkedin.com/in/sudip-ghosh-758463304/)
+# Email: sudip17x@gmail.com
+# LinkedIn: (https://www.linkedin.com/in/sudip-ghosh-758463304/)
