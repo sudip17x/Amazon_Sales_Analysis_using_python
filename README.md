@@ -1,6 +1,6 @@
 # Amazon Sales Report Analysis
 
-![image alt](https://github.com/sudip17x/Amazon_Sales_Analysis_using_python/blob/27d9dd71b9f72d7415cb553439ffa0125e54255a/Amazon%20Sales%20Dashboard%20Image.jpg)
+![image alt](https://github.com/sudip17x/Amazon_Sales_Analysis_using_python/blob/ab849d1ffe3635a3f2dfbe4f97d120bbd5def696/Amazon%20Sales%20Dashboard%20Image.jpg)
 
 ## Project Overview
 
